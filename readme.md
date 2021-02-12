@@ -1,3 +1,3 @@
-# Изучаю основы Python по курсe Stepik
+# Изучаю основы Python на Stepik
 https://stepik.org/course/67/syllabus
 
